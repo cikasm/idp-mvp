@@ -1,12 +1,10 @@
-# MVP Strategy & type
+# MVP Strategy 
 
-### **MVP Type: Concierge MVP + No-Code Prototype**
+## Concierge MVP + No-Code Prototype
 
-- **Concierge MVP:** I will manually automate workflows for pilot teams using existing tools (Terraform, GitHub Actions, AWS).
+Workflows for pilot teams will be manually automated using existing tools (Terraform, GitHub Actions, AWS) and adoption will be tested with simple self-service infrastructure provisioning.
 
-- **No-Code Prototype:** I will test adoption with simple **self-service infrastructure provisioning**.
-
-### **Why this approach?**
+### Why this approach?
 
 1. Avoid feature bloat by focusing on **one high-value workflow first**.
 
