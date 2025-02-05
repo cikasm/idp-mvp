@@ -1,4 +1,4 @@
-# MVP Strategy 
+# MVP strategy 
 
 ## Concierge MVP + No-Code Prototype
 
