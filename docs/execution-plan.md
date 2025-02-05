@@ -1,4 +1,4 @@
-# Execution Plan
+# Execution plan
 
 **1. Define the MVP scope**
 
