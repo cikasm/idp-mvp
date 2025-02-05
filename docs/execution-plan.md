@@ -21,7 +21,7 @@
 
 - Deploy to 5+ mid-to-large B2B engineering teams.
 - Track usage, adoption, and friction points.
-- Collect feedback via GitHub Issues and refine accordingly.
+- Collect feedback and refine accordingly.
 
 
 **5. Define success metrics**
