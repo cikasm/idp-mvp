@@ -1,9 +1,9 @@
 # Hypotheses
 
-## Testable Hypotheses:
+## Testable hypotheses:
 
-1. If I provide **self-service environment provisioning**, DevOps teams will prefer it over complex IDPs.
+1. Providing self-service environment provisioning will make DevOps teams prefer it over complex IDPs.
 
-2. If I make the platform **easy to adopt without workflow disruption**, developer adoption will increase.
+2. Making the platform easy to adopt without workflow disruption will increase developer adoption.
 
-3. If I automate key workflows **with minimal setup**, platform engineers will see **time savings**.
+3. Automating key workflows with minimal setup will result in time savings for platform engineers.
