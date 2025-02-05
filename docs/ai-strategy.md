@@ -2,17 +2,12 @@
 
 ## AI integration plan
 
-| Phase           | AI Integration Ideas |
-
-|:--------------- | :------------------- |
-
-| **Prototype**  | AI-powered Terraform generation, chatbot for queries |
-
-| **MVP Build**  | AI-driven CI/CD optimizations, IaC suggestions |
-
-| **Pilot Testing** | AI observability for feedback, dependency mapping |
-
-| **Iteration**  | Self-service AI workflows, AI-powered documentation |
+| Phase             | AI integration ideas                                 |
+| :---------------- | :--------------------------------------------------- |
+| **Prototype**     | AI-powered Terraform generation, chatbot for queries |
+| **MVP build**     | AI-driven CI/CD optimizations, IaC suggestions       |
+| **Pilot testing** | AI observability for feedback, dependency mapping    |
+| **Iteration**     | Self-service AI workflows, AI-powered documentation  |
 
 ## Potential AI tools & approaches
 
