@@ -10,14 +10,14 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 ## MVP approach
 
-3. Identify risky assumptions.
+1. Identify risky assumptions.
 
-4. Build hypotheses.
+2. Build hypotheses.
 
-5. Establish success criteria.
+3. Establish success criteria.
 
-6. Select MVP strategy.
+4. Select MVP strategy.
 
-7. Execute, iterate, evaluate.
+5. Execute, iterate, evaluate.
 
 Check the `/docs` folder for more details.
