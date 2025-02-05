@@ -12,6 +12,6 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 4. **Lack of self-service:** Platform teams don’t scale without automation. 
 
-### Opportunity
+## Opportunity
 
 A **lightweight, pre-configured IDP-as-a-Service** that is easy to adopt, integrates with existing tools, and automates key DevOps workflows.
