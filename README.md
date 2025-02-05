@@ -1,6 +1,6 @@
-# Internal Developer Platform (IDP) MVP
+# Internal Developer Platform MVP
 
-This repository documents the MVP development of a **plug-and-play Internal Developer Platform** aimed at DevOps teams, platform engineers, and engineering managers.
+This repository documents the MVP development of a **plug-and-play Internal Developer Platform** (IDP) aimed at DevOps teams, platform engineers, and engineering managers.
 
 ## Repository structure
 
