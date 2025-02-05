@@ -16,7 +16,6 @@
 
 - Develop a lightweight backend to handle provisioning requests.
 - Provide a simple CLI/API for developers to interact with the platform.
-- Automate Terraform & GitHub for self-service workflows.
 
 **4. Test with pilot teams**
 
