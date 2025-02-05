@@ -1,5 +1,7 @@
 # Problem Statement
 
+DevOps teams struggle with existing IDPs due to complexity, high maintenance, and low adoption. This project aims to create a lightweight, self-service IDP that automates common DevOps workflows.
+
 ## The pain points being solved
 
 1. **Over-engineering in IDPs:** Existing IDPs are complex, bloated, and require dedicated maintenance.
