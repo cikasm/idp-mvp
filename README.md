@@ -16,7 +16,7 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 ## Repository structure
 
-```shell 
+```
 
 idp-mvp/
 
