@@ -4,7 +4,7 @@
 
 | Phase           | AI Integration Ideas |
 
-|----------------|---------------------|
+|--------------- | ------------------- |
 
 | **Prototype**  | AI-powered Terraform generation, chatbot for queries |
 
