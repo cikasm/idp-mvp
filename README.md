@@ -8,7 +8,7 @@ This repository documents the MVP development of a **plug-and-play Internal Dev
 
 DevOps teams struggle with existing IDPs due to complexity, high maintenance, and low adoption. This project aims to create a lightweight, self-service IDP that automates common DevOps workflows.
 
-## MVP approach
+## Approach
 
 1. Identify risky assumptions.
 
