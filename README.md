@@ -34,7 +34,7 @@ idp-mvp/
 
 │   ├── hypotheses.md # Hypotheses built around assumptions, detailing what needs testing
 
-│   ├── success-metrics.md # Defines the Minimum Criteria for Success (MCS) for the MVP
+│   ├── success-metrics.md # Defines the Minimum Criteria for Success (MCS)
 
 │   ├── mvp-strategy.md # Outlines the MVP type, approach, and scope of initial features
 
