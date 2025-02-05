@@ -20,4 +20,4 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 5. Execute, iterate, evaluate.
 
-Check the `/docs` folder for more details.
+Check the [`/docs`](https://github.com/cikasm/idp-mvp/tree/76e2e4ced89533e5f0894d9b01be3d7dfeca9584/docs) folder for more details.
