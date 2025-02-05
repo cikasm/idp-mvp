@@ -28,18 +28,18 @@ idp-mvp/
 
 │── docs/
 
-│   ├── problem-statement.md
+│   ├── problem-statement.md # Defines key pain points and opportunities 
 
-│   ├── assumptions.md
+│   ├── assumptions.md # Lists risky assumptions that need validation before scaling
 
-│   ├── hypotheses.md
+│   ├── hypotheses.md # Hypotheses built around assumptions, detailing what needs testing
 
-│   ├── success-metrics.md
+│   ├── success-metrics.md # Defines the Minimum Criteria for Success (MCS) for the MVP
 
-│   ├── mvp-strategy.md
+│   ├── mvp-strategy.md # Outlines the MVP type, approach, and scope of initial features
 
-│   ├── ai-strategy.md
+│   ├── ai-strategy.md # Details AI integration across MVP phases
 
-│   ├── execution-plan.md
+│   ├── execution-plan.md  # Step-by-step plan for building, testing, and iterating the MVP
 ```
 Check the [`/docs`](https://github.com/cikasm/idp-mvp/tree/76e2e4ced89533e5f0894d9b01be3d7dfeca9584/docs) folder for more details.
