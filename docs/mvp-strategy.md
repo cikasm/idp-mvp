@@ -1,5 +1,13 @@
 # MVP strategy 
 
+## Approach
+
+1. Identify risky assumptions.
+2. Build hypotheses.
+3. Establish success criteria.
+4. Select MVP strategy.
+5. Execute, iterate, evaluate.
+
 ## Concierge MVP + No-Code Prototype
 
 Workflows for pilot teams will be manually automated using existing tools (Terraform, GitHub Actions, AWS) and adoption will be tested with simple self-service infrastructure provisioning.
