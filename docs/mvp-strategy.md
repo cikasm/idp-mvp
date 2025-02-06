@@ -1,13 +1,5 @@
 # MVP strategy 
 
-## Approach
-
-1. Identify risky assumptions.
-2. Build hypotheses.
-3. Establish success criteria.
-4. Select MVP strategy.
-5. Execute, iterate, evaluate.
-
 ## Concierge MVP + No-Code Prototype
 
 Launch a Concierge MVP by manually guiding developers through service discovery and onboarding while validating needs, then use a No-Code Prototype to create a lightweight portal for iteration before full automation.
