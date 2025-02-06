@@ -1,10 +1,10 @@
-# Internal Developer Platform MVP
+# Internal Developer Portal MVP
 
-This repository documents the MVP development of a **plug-and-play Internal Developer Platform** (IDP) designed to streamline workflows, automate infrastructure, and improve developer self-service for DevOps teams.
+This repository documents the MVP development of a plug-and-play Internal Developer Portal (IDP) designed to streamline workflows, optimize service discoverability, and improve developer self-service for DevOps teams.
 
 ## Problem statement
 
-DevOps teams struggle with existing IDPs due to complexity, high maintenance, and low adoption. This project aims to create a lightweight, self-service IDP that automates common DevOps workflows.
+DevOps teams struggle with existing IDPs due to complexity, high maintenance, and low adoption. This project aims to create a lightweight, self-service IDP that enhances service visibility and simplifies internal tooling access.
 
 ## Approach
 
