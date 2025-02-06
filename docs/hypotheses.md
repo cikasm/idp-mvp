@@ -6,4 +6,4 @@
 
 2. Making the platform easy to adopt without workflow disruption will increase developer adoption.
 
-3. Automating key workflows with minimal setup will result in time savings for platform engineers.
+3. DevOps and engineering teams are willing to adopt a new tool if it saves them time.
