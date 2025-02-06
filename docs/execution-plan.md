@@ -15,7 +15,7 @@
 **3. Build the MVP**
 
 - Develop a lightweight backend to handle provisioning requests.
-- Provide a simple CLI/API for developers to interact with the platform.
+- Provide a simple UI for developers to interact with the platform.
 
 **4. Test with pilot teams**
 
@@ -34,4 +34,4 @@
 
 - Address early feedback to improve UX and functionality.
 - Explore additional workflows.
-- Gradually introduce UI/dashboard if validated.
+- Gradually introduce features if validated.
