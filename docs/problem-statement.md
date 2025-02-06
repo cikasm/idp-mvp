@@ -10,7 +10,7 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 3. **High setup & maintenance costs:** Open-source IDPs like Backstage require too much effort to configure.
 
-4. **Lack of self-service:** Platform teams don’t scale without automation. 
+4. **Poor integration:** Without seamless integration with CI/CD, documentation, and monitoring tools, portals fail to be a reliable source of truth and slow down development.
 
 ## Opportunity
 
