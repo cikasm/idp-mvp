@@ -4,6 +4,6 @@
 
 1. DevOps teams will use a plug-and-play IDP instead of building their own.
 
-2. A self-service IDP will reduce ops workload.
+2. A No-Code prototype is enough to test workflows.
 
-3. Pre-built integrations (AWS, Terraform, GitHub) will drive adoption.
+3. The portal can scale without becoming a maintenance burden.
