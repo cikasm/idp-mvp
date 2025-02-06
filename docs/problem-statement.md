@@ -6,7 +6,7 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 1. **Over-engineering:** Existing IDPs are complex, bloated, and require dedicated maintenance.
 
-2. **Developer resistance and low adoption:** Hard to use, traditional IDPs often fail to align with developer needs, leading to low perceived value and disengagement.
+2. **Developer resistance and low adoption:** Hard to use, traditional IDPs fail to align with developer needs, leading to low perceived value and disengagement.
 
 3. **High setup & maintenance costs:** Open-source IDPs like Backstage require too much effort to configure.
 
