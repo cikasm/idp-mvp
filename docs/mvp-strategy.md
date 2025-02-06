@@ -6,10 +6,10 @@ Launch a Concierge MVP by manually guiding developers through service discovery 
 
 ### Why this approach?
 
-1. Avoid feature bloat by focusing on **one high-value workflow first**.
+1. Avoid feature bloat by focusing on one high-value workflow first.
 
-2. Validate adoption **before** investing in full development.
+2. Validate adoption before investing in full development.
 
-3. Iterate based on **real user feedback**.
+3. Iterate based on real user feedback.
 
   
