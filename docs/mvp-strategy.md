@@ -10,7 +10,7 @@
 
 ## Concierge MVP + No-Code Prototype
 
-Workflows for pilot teams will be manually automated using existing tools (Terraform, GitHub Actions, AWS) and adoption will be tested with simple self-service infrastructure provisioning.
+Launch a Concierge MVP by manually guiding developers through service discovery and onboarding while validating needs, then use a No-Code Prototype to create a lightweight portal for iteration before full automation.
 
 ### Why this approach?
 
