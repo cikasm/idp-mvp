@@ -4,9 +4,9 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 ## The pain points being solved
 
-1. **Over-engineering in IDPs:** Existing IDPs are complex, bloated, and require dedicated maintenance.
+1. **Over-engineering:** Existing IDPs are complex, bloated, and require dedicated maintenance.
 
-2. **Developer resistance:** Many IDPs fail due to lack of adoption.
+2. **Developer resistance and low adoption:** Often complex and hard to use, traditional IDPs fail to align with developer needs, leading to low perceived value and disengagement.
 
 3. **High setup & maintenance costs:** Open-source IDPs like Backstage require too much effort to configure.
 
@@ -14,4 +14,4 @@ DevOps teams struggle with existing IDPs due to complexity, high maintenance, an
 
 ## Opportunity
 
-A **lightweight, pre-configured IDP-as-a-Service** that is easy to adopt, integrates with existing tools, and automates key DevOps workflows.
+A lightweight, pre-configured IDP-as-a-Service that is easy to adopt and manage, integrates with existing tools, accelerates onboarding, and provides a single source of truth for self-serve documentation.
